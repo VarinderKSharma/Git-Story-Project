@@ -1,2 +1,3 @@
 "Once upon a time, in a land of code, there lived a brave developer."
 "Suddenly, a friendly dragon named Gitara appeared."
+ "The developer and the dragon decided to build an app."
